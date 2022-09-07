@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is the user catalog.
 i have been changed catalog. 
 Hello
+=======
+This is the user catalog
+>>>>>>> 932bc6d0de7de2b00a8ada9e000e803d111cfea5
